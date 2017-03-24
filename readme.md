@@ -1,4 +1,4 @@
-<p align="center"><img src="http://raazu.com/eshop/img/logo3.png"></p>
+<p align="center"><img src="http://newsportal.biz/images/logo.jpg"></p>
 
 ## About Laravel Framework
 
